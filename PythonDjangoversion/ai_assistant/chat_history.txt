@@ -1,0 +1,57 @@
+You: good morning
+Assistant: Good morning sir!
+
+You: what is your name
+Assistant: Hello, I am your Desktop AI assistant created by Darshan AR. How can I help you today?
+
+You: open youtube
+Assistant: YouTube is now open. Enjoy!
+
+You: who is Leela mam
+Assistant: Leela Mam is a teacher who teaches us Python programming. She is very knowledgeable and helpful.
+
+You: who is Leela mam
+Assistant: Leela Mam is a teacher who teaches us Python programming. She is very knowledgeable and helpful.
+
+You: who is Leela
+Assistant: Sorry, I'm not able to understand. Please explain clearly.
+
+You: who is Leela
+Assistant: Sorry, I'm not able to understand. Please explain clearly.
+
+You: who is leela mam
+Assistant: Leela Mam is a teacher who teaches us Python programming. She is very knowledgeable and helpful.
+
+You: what is the time now
+Assistant: The time now is 11 hour and 14 minutes.
+
+You: what is the time now
+Assistant: The time now is 11 hour and 14 minutes.
+
+You: what is the time now
+Assistant: The time now is 11 hour and 14 minutes.
+
+You: tell me a joke
+Assistant: Why did the computer go to the doctor? Because it had a virus!
+
+You: tell me a joke
+Assistant: Why did the computer go to the doctor? Because it had a virus!
+
+You: who is leela mam
+Assistant: Leela Mam is a teacher who teaches us Python programming. She is very knowledgeable and helpful.
+
+You: who is Leela mam
+Assistant: Leela Mam is a teacher who teaches us Python programming. She is very knowledgeable and helpful.
+
+You: who is Leela mam
+Assistant: Leela Mam is a teacher who teaches us Python programming. She is very knowledgeable and helpful.
+
+You: 
+Assistant: Sorry, I'm not able to understand. Please explain clearly.
+
+You: hi how are you
+Assistant: Hi, sir! How can I help you?
+
+You: tell me a fact
+Assistant: Did you know that honey never spoils? Archaeologists found 3000-year-old honey in Egyptian tombs still edible!
+
